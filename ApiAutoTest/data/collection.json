@@ -1,0 +1,6 @@
+{
+  "url":"http://ttapi.research.itcast.cn/app/v1_0/article/collections",
+  "headers" : {"Content-type":"application/json","Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODMzNDI4MTIsInVzZXJfaWQiOjEyMzUwNTk1Mzc0NjQwMDA1MTIsInJlZnJlc2giOmZhbHNlfQ.3Bz75-GkD9vpJba4El79pIi2dGQfLVqIziZwrmUpoKc"},
+  "data": {"target":1},
+  "status_code": 401
+}

@@ -1,0 +1,16 @@
+{
+  "login01": {
+  "url": "http://ttapi.research.itcast.cn/app/v1_0/authorizations",
+  "mobile": "18610011001",
+  "code": "747706",
+  "except_result": "Invalid code.",
+  "status_code": 400
+},
+  "login02": {
+  "url": "http://ttapi.research.itcast.cn/app/v1_0/authorizations",
+  "mobile": "18610011001",
+  "code": "747706",
+  "except_result": {"mobile": "186184565641 is not a valid mobile"},
+  "status_code": 400
+}
+}
