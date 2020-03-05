@@ -8,7 +8,7 @@ class ReadBD:
     #获取连接对象方法封装
     def get_conn(self):
         if self.conn is None:
-            self.conn = pymysql.connect("10.12.9.16","lft_dev","J7HmRdj8","lft_merchant",charset="utf8")
+            self.conn = pymysql.connect("IP地址","用户名","密码","数据库名",charset="utf8")
 
         return self.conn
 
